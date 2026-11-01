@@ -1,0 +1,9 @@
+# Archivos de compilación
+nano-build/
+nano-install/
+*.tar.xz
+*.tar.gz
+*.o
+*.a
+*.so
+*.tmp
